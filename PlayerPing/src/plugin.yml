@@ -1,0 +1,10 @@
+name: PlayerPing
+main: com.cyber.ping.PlayerPing
+version: 1.0
+authors:
+    - CyberDrain
+description: A very simple plugin to check pings
+commands:
+    ping:
+        description: check ping
+        
