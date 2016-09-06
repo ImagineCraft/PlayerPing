@@ -7,4 +7,5 @@ description: A very simple plugin to check pings
 commands:
     ping:
         description: check ping
+        usage: /ping [player]
         
