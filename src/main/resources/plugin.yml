@@ -1,5 +1,5 @@
 name: PlayerPing
-main: com.cyber.ping.PlayerPing
+main: org.imaginecraft.playerping.PlayerPing
 version: 1.0
 authors:
     - CyberDrain

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.cyber.ping;
+package org.imaginecraft.playerping;
 
 import net.minecraft.server.v1_10_R1.EntityPlayer;
 
