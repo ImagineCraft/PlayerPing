@@ -1,6 +1,6 @@
 name: PlayerPing
 main: org.imaginecraft.playerping.PlayerPing
-version: 2.0.0
+version: ${project.version}
 authors:
     - CyberDrain
 description: A very simple plugin to check pings
